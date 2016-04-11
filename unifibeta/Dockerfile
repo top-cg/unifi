@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER Jacob Alberty <jacob.alberty@foundigital.com>
+MAINTAINER Antoine Topsent <admin@sithcorp.com>
 
 VOLUME ["/var/lib/unifi", "/var/log/unifi", "/var/run/unifi", "/usr/lib/unifi/work"]
 
